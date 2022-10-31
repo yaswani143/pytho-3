@@ -1,0 +1,37 @@
+# Mini Project 
+....
+Create a Dyanamic Leave Application Generator--- Name ,Class, Section,school,class Teacher name,date,subject,date of leave,reason
+...
+
+
+
+
+
+
+
+
+Print (" Leave Application Generator")
+name - Str(input(" Enter the name of the student :'))
+classs =Str (input ("Enter  the class: " ))
+sect -str (input("Enter the section: "))
+teacher -str (input ("Enter the teacher name: "))
+date _=str (input (" Enter the data: "))
+subject - str (input (" Enter the Subject : "))
+leave -str (input(" Enterthe Subject:"))
+date_ =str (input('Enter the reason for leave:))
+
+final - f'''
+
+subject: {subject}
+
+Respected {teacher} My self {name } from the following {classs} and section {sect} Would request you to grant my {leave } on the following date
+{date-} till {date-}.please grant my leave and understand my situation
+
+Your Respectfull
+.Yaswani
+
+
+...
+
+print {final} 
+
